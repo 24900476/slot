@@ -24,10 +24,13 @@ Add your timetable using ```<td>``` tag.
 Execute the program using runserver command.
 
 ## PROGRAM
-<img src=""
+```
 <html>
     <body>
-     <table border="5" bgcolor="cyan" cellpadding="10"> 
+        <center>
+            <img src="logo.png" height="100" width="500">
+        </center>
+        <table border="5" bgcolor="cyan" cellpadding="10"> 
     <caption align="center"> Time table </caption>
     <th colspan="7" align="center" bgcolor="red">SAVEETHA ENGINEERING COLLEGE </th>
      <tr>
@@ -67,8 +70,8 @@ Execute the program using runserver command.
         <td> web application</td>
      </tr>
      </table>
-    </body>
-</html>
+   </body>
+</html> <br> <br>
 <table border="2">
     <tr bgcolor="red">
         <th>S.no</th>
@@ -107,10 +110,9 @@ Execute the program using runserver command.
     </tr>
     
 </table>
-
-
+```
 ## OUTPUT:
-![alt text](image.png)
+![alt text](<timetable/Screenshot 2024-11-22 120229.png>)
 
 
 ## RESULT
